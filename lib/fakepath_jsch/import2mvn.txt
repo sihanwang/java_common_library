@@ -1,0 +1,1 @@
+mvn install:install-file -Dfile=jsch-0.1.49.jar -DgroupId=fakepath -DartifactId=jsch -Dversion=0.1.49 -Dpackaging=jar

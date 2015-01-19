@@ -1,0 +1,1 @@
+mvn install:install-file -Dfile=bcprov-jdk16-145.jar -DgroupId=bcprov-jdk16 -DartifactId=bcprov-jdk16 -Dversion=145 -Dpackaging=jar
